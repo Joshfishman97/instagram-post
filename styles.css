@@ -6,14 +6,17 @@
 .header{
     text-align: center;
 }
-.photo-section{
+.photo-section1{
     background-color: rgba(211, 211, 211, 0.637);
 }
 .post{
     background-color: white;
     width: 50%;
-    margin: 12px auto;
-}
+    margin: 12px auto;;
+   }
 img{
     width: 100%;
+}
+.numbers{
+ float: right;
 }
