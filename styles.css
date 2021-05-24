@@ -12,11 +12,21 @@
 .post{
     background-color: white;
     width: 50%;
-    margin: 12px auto;;
+    margin: 12px auto;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 5px;
    }
 img{
-    width: 100%;
+  width: 100%
 }
 .numbers{
  float: right;
+margin-top: 18px;
+}
+p{
+    display: inline-block;
+}
+body{
+    background-color: gray;
 }
